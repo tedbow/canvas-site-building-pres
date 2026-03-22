@@ -1,0 +1,13 @@
+/* Custom light blue theme for reveal.js */
+.reveal {
+  background: #3b82f6; /* Tailwind blue-500 */
+}
+.reveal .slides {
+  color: #fff;
+}
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  color: #fff;
+}
+.reveal ul, .reveal li {
+  color: #fff;
+}
