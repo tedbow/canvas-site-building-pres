@@ -129,6 +129,12 @@
 
 ---
 
+## Content Types
+
+![imadsf](images/type_diagram.png)
+<img src="images/type_diagram.png" alt="Basic View Teaser Create" style="max-height: 100vh; max-width: 100%; object-fit: contain;">
+---
+
 ### Core: Manage Display
 
 ![Manage Display - Show](images/show_manager_display.png)
@@ -138,6 +144,7 @@
 ### Core: Manage Display
 
 ![Manage Display - Show](images/core_custom_view_modes.png)
+<img src="images/view_modes.png" alt="Basic View Teaser Create" style="max-height: 100vh; max-width: 100%; object-fit: contain;">
 
 ---
 
@@ -167,6 +174,17 @@
 
 ---
 
+### Linking Props to Fields
+
+<div style="display: flex; gap: 2rem; align-items: center; justify-content: center;">
+  <img src="images/image_linker.png" alt="Image Linker" style="max-height: 70vh; max-width: 48%; object-fit: contain;">
+  <img src="images/text_linker.png" alt="Text Linker" style="max-height: 70vh; max-width: 48%; object-fit: contain;">
+</div>
+
+### Must match prop type to field type
+
+---
+
 ### TV Show: Fields
 
 <img src="images/manage_fields_shows.png" alt="Basic View Teaser Create" style="max-height: 60vh; max-width: 100%; object-fit: contain;">
@@ -178,4 +196,56 @@
 <img src="images/manage_fields_show_cropped.png" alt="Basic View Teaser Create" style="max-height: 60vh; max-width: 100%; object-fit: contain;">
 
 ---
+
+### Show Template: More Components
+
+<video controls style="max-height: 85vh; max-width: 100%;">
+  <source src="videos/tempate_button_date_network.mp4" type="video/mp4">
+</video>
+
+---
+
+### Publishing the Template
+
+<video controls style="max-height: 85vh; max-width: 100%;">
+  <source src="videos/publish_template.mov" type="video/mp4">
+</video>
+
+---
+
+## Fixing the Home Page!
+
+### Teasers, Patterns, oh my!
+
+---
+
+## Adding a Teaser View Mode
+
+<video controls style="max-height: 85vh; max-width: 100%;">
+  <source src="videos/fix_home_page1.mov" type="video/mp4">
+</video>  
+
+---
+
+# What the?
+
+![Bug](images/teaser_bug.png)
+
+---
+
+## Our site so far...
+
+<video controls style="max-height: 85vh; max-width: 100%;">
+  <source src="videos/progress2.mov" type="video/mp4">
+</video>  
+
+---
+
+## Episode Templates, you got this!
+
+<video controls style="max-height: 85vh; max-width: 100%;"  onloadedmetadata="this.playbackRate = 16;" style="max-height: 85vh; max-width: 100%;">
+  <source src="videos/making_episode_templates_trimeed.mov" type="video/mp4" >
+</video>
+
+___
 # Thanks!
