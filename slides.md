@@ -1,5 +1,6 @@
 # Drupal Canvas
 ### Advanced Site Building
+<img src="images/acquia_logo.png">
 
 ---
 
@@ -10,6 +11,8 @@
 - Previous: Layout Builder, REST, Settings Tray(🫢)
 - Back-end Developer
 - Site Builder?
+
+<img src="images/acquia_logo.png">
 
 ---
 
@@ -77,11 +80,20 @@
 ---
 
 ## SDC: Canvas Use Case
-- Props and Slot not necessity
-- Example SDC displaying:
-  - Company logo
-  - Picture of Capybara
-![capybara](images/capybara.jpg)
+
+<div style="display: flex; gap: 2rem; align-items: center;">
+  <ul>
+    <li>Props and Slot not necessity</li>
+    <li>Example SDC displaying:
+      <ul>
+        <li>Company logo</li>
+        <li>Picture of Capybara</li>
+      </ul>
+    </li>
+  </ul>
+  <img src="images/capybara.jpg" alt="capybara" style="max-height: 70vh; max-width: 50%; object-fit: contain;">
+</div>
+
 ---
 
 ### Example SDC: Number
@@ -161,7 +173,7 @@ props:
 
 ### Creating a homepage
 
-<video controls style="max-height: 85vh; max-width: 100%;"  onloadedmetadata="this.playbackRate = 1.5;">
+<video controls style="max-height: 85vh; max-width: 100%;" >
   <source src="videos/homepage_start.mov" type="video/mp4" >
 </video>
 
