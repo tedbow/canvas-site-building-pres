@@ -160,8 +160,9 @@
 
 
 ---
+### Creating a TV Show Template
 <video controls style="max-height: 85vh; max-width: 100%;">
-  <source src="videos/export_template.mp4" type="video/mp4">
+  <source src="videos/template_show_start_1.mov" type="video/mp4">
 </video>
 
 ---
