@@ -59,6 +59,18 @@
 - Only Node Full view for now
 
 ---
+<!-- ## SDC section start -->
+
+# SDC: Single Directory Components
+- Stored in, wait for it...... a single directory!
+- Drupal Core sub-system for reusable components
+- Needs: .component.yml + .twig files
+- Can have: .js, .css, asset files
+
+---
+
+<!-- ## SDC section end -->
+---
 
 ## Demo Site
 
