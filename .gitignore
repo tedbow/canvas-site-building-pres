@@ -15,4 +15,6 @@ dist/reveal.es5.js
 react/dist
 react/demo/dist
 
-videos/homepage_start.mov
+# Ignore Videos for now to not worry about video file size and github limits.
+# Can be found at https://drive.google.com/drive/folders/1V40uZEZZGRNUl3c4aJ9Y01kgw3it15Pj?usp=sharing
+/videos
