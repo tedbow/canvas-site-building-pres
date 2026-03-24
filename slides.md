@@ -118,16 +118,52 @@
 
 ---
 
-## 😢Not Great
-
-
-## But we will fix with Canvas soon 🚀
+<div style="display: flex; flex-direction: column; height: 45vh; justify-content: space-between;">
+  <h2>😢Not Great</h2>
+  <h2>But we will fix with Canvas soon!⏱️</h2>
+</div>
 
 ---
 
 <video controls style="max-height: 85vh; max-width: 100%;">
   <source src="videos/export_template.mp4" type="video/mp4">
 </video>
+
+---
+
+# Content Templates
+
+---
+
+### Core: Manage Display
+
+![Manage Display - Show](images/show_manager_display.png)
+
+---
+
+### Core: Manage Display
+
+![Manage Display - Show](images/core_custom_view_modes.png)
+
+---
+
+### Core: View Modes
+
+<img src="images/view_modes.png" alt="Basic View Teaser Create" style="max-height: 100vh; max-width: 100%; object-fit: contain;">
+
+
+---
+
+
+### TV Show: Fields
+
+<img src="images/manage_fields_shows.png" alt="Basic View Teaser Create" style="max-height: 60vh; max-width: 100%; object-fit: contain;">
+
+---
+
+### TV Show: Fields
+
+<img src="images/manage_fields_show_cropped.png" alt="Basic View Teaser Create" style="max-height: 60vh; max-width: 100%; object-fit: contain;">
 
 ---
 # Thanks!
