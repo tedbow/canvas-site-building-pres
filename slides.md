@@ -125,12 +125,6 @@
 
 ---
 
-<video controls style="max-height: 85vh; max-width: 100%;">
-  <source src="videos/export_template.mp4" type="video/mp4">
-</video>
-
----
-
 # Content Templates
 
 ---
@@ -151,9 +145,26 @@
 
 <img src="images/view_modes.png" alt="Basic View Teaser Create" style="max-height: 100vh; max-width: 100%; object-fit: contain;">
 
+---
+
+## Canvas Templates
+
+- Override View Modes
+- Full, Teaser, etc
 
 ---
 
+### TV Show: Full View
+
+<img src="images/full_view_core.png" alt="TV Show Full View" style="max-height: 60vh; max-width: 100%; object-fit: contain;">
+
+
+---
+<video controls style="max-height: 85vh; max-width: 100%;">
+  <source src="videos/export_template.mp4" type="video/mp4">
+</video>
+
+---
 
 ### TV Show: Fields
 
