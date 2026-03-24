@@ -69,7 +69,64 @@
 
 ---
 
+## SDC: Canvas Use Case
+- Props: Input Values provided in UI
+- Slots: Drop zones to nest other components
+  - SDC, Code Component, Block, others
+
+---
+
+## SDC: Canvas Use Case
+- Props and Slot not necessity
+- Example SDC displaying:
+  - Company logo
+  - Picture of Capybara
+![capybara](images/capybara.jpg)
+---
+
+### Example SDC: Number
+- prop type: number
+- displays the prop
+
+---
+## Files
+<img src="images/number-files.png">
+
+---
+
+### number.component.yml
+```yaml
+
+name: Number
+status: stable
+props:
+  type: object
+  properties:
+    number:
+      type: number
+      title: Number
+      description: The number to display
+      examples:
+        - 42
+```
+
+---
+
+### number.twig
+```twig
+<span class="number">{{ number }}</span>
+```
+
+### number.css
+```css
+.number {
+  font-variant-numeric: tabular-nums;
+}
+
+```
+
 <!-- ## SDC section end -->
+
 ---
 
 ## Demo Site
