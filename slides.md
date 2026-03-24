@@ -148,7 +148,7 @@ props:
   - Episodes
   - Cast
 
----
+<!-- ---
 
 ## Data Model
 
@@ -167,7 +167,14 @@ props:
   <polygon points="430,120 435,127 430,117" fill="#fff"/>
   <line x1="375" y1="200" x2="375" y2="300" stroke="#fff" stroke-width="2"/>
   <polygon points="375,300 370,290 380,290" fill="#fff"/>
-</svg>
+</svg> -->
+
+---
+
+## Content Types
+
+
+<img src="images/type_diagram.png" alt="Basic View Teaser Create" style="max-height: 100vh; max-width: 100%; object-fit: contain;">
 
 ---
 
@@ -208,12 +215,7 @@ props:
 
 # Content Templates
 
----
 
-## Content Types
-
-![imadsf](images/type_diagram.png)
-<img src="images/type_diagram.png" alt="Basic View Teaser Create" style="max-height: 100vh; max-width: 100%; object-fit: contain;">
 ---
 
 ### Core: Manage Display
@@ -328,5 +330,16 @@ props:
   <source src="videos/making_episode_templates_trimeed.mov" type="video/mp4" >
 </video>
 
+---
+
+### Add Episode View for Show Page
+
+<video controls style="max-height: 85vh; max-width: 100%;"  style="max-height: 85vh; max-width: 100%;">
+  <source src="videos/episodes_for_show_view.mov" type="video/mp4" >
+</video>
+
 ___
-# Thanks!
+
+# Thanks
+
+---
