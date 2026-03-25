@@ -34,6 +34,12 @@
 
 ---
 
+
+<img src="images/repo.png" alt="Basic View Teaser Create" style="max-height: 70vh; max-width: 100%; object-fit: contain;">
+
+
+---
+
 ## What is Drupal Canvas?
 
 - Visual Page Builder
@@ -293,11 +299,11 @@ props:
 
 ### Linking Props to Fields
 
+- Must match
+  - Field type
+  - Required
+  - Cardinality
 
-
----
-
-### Must match prop type to field type
 
 ---
 
