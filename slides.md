@@ -338,7 +338,29 @@ props:
   <source src="videos/episodes_for_show_view.mov" type="video/mp4" >
 </video>
 
-___
+---
+
+# Cast Member Component
+- Component specifically create for this site
+- Cast Member Teaser will only need this component
+- Definitely not excuse to add my dog to presentation
+
+---
+
+### Creating Cast Member Teaser
+<video controls style="max-height: 85vh; max-width: 100%;">
+  <source src="videos/cast_member_teaser.mov" type="video/mp4">
+</video>
+
+---
+
+### Creating Cast Member View
+<video controls style="max-height: 85vh; max-width: 100%;">
+  <source src="videos/cast_view_on_show.mov" type="video/mp4">
+</video>
+
+
+---
 
 # Thanks
 
