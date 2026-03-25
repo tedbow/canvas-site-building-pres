@@ -359,6 +359,12 @@ props:
   <source src="videos/cast_view_on_show.mov" type="video/mp4">
 </video>
 
+---
+
+### Take Over Theme Regions
+<video controls style="max-height: 85vh; max-width: 100%;">
+  <source src="videos/regions2.mov" type="video/mp4">
+</video>
 
 ---
 
