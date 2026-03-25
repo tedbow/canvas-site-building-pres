@@ -8,18 +8,35 @@
 
 - Acquia: Drupal Applications Team
 - @tedbow Drupal.org
-- Previous: Layout Builder, REST, Settings Tray(🫢)
 - Back-end Developer
-- Site Builder?
+- Site Builder
 
 <img src="images/acquia_logo.png">
 
 ---
 
+## Ted Bowman
+
+- Previous
+  - Automatic Updates (in Drupal CMS)
+  - Layout Builder
+  - REST
+  - Settings Tray(🫢)
+- Current
+  - Canvas😊
+
+<img src="images/acquia_logo.png">
+
+---
+# Slides
+
+### <a href="https://github.com/tedbow/canvas-site-building" style="color: #fff;">github.com/tedbow/canvas-site-building</a>
+
+---
+
 ## What is Drupal Canvas?
 
-- Visual First!
-- Page Builder
+- Visual Page Builder
 - In-browser code component creator
 - Page Building AI assistant
 - Vibe Coding Code component assistant
@@ -43,23 +60,15 @@
 - Support for modern React/Preact patterns and syntax
 - Javascript\CSS Component
 
----
-
-## Code Component Creator
-
-- Uses props to make components configurable and reusable
-- Uses slots for nested components
-- Work alongside standard Drupal blocks and SDC components
-- Uses JSON:API to fetch site content
 
 ---
 
 ## Content Templating
 
 - Design the look of content type pages
-- Replaces pagese,"Manage Display"
+- Replaces pages,"Manage Display"
 - Connect to data after
-- Only Node Full view for now
+- Control All View Modes!!!
 
 ---
 <!-- ## SDC section start -->
@@ -138,6 +147,22 @@ props:
 ```
 
 <!-- ## SDC section end -->
+
+---
+
+## SDC vs Javascript Components
+- For site builder doesn't matter
+- Same Props & Slots
+- UI is same
+  - Placing Components
+  - Editing Props
+  - Etc
+
+---
+
+# Today's Demo
+- Core + Canvas
+- Starting new site: Drupal CMS
 
 ---
 
@@ -263,6 +288,14 @@ props:
   <img src="images/image_linker.png" alt="Image Linker" style="max-height: 70vh; max-width: 48%; object-fit: contain;">
   <img src="images/text_linker.png" alt="Text Linker" style="max-height: 70vh; max-width: 48%; object-fit: contain;">
 </div>
+
+---
+
+### Linking Props to Fields
+
+
+
+---
 
 ### Must match prop type to field type
 

@@ -1,4 +1,21 @@
+# Canvas: Advanced Site Building
 
+# Theme
+[https://github.com/tedbow/tedbow_demo_theme](https://github.com/tedbow/tedbow_demo_theme)
+
+Has Components in Demo
+
+# Demo Site
+
+[https://github.com/tedbow/tv_maze_migrate](https://github.com/tedbow/tv_maze_migrate)
+
+## Contains
+
+- Content Types
+- TV Maze API import
+- Soon
+  - Views
+  - Templates
 
 ### Video files
 - ℹ️ `/videos` is not add to repo because of file size limits
